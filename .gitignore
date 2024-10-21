@@ -53,3 +53,5 @@ dkms.conf
 
 # Own compiled files
 guessnumber
+test.txt
+createfile
